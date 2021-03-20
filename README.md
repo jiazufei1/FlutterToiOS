@@ -62,4 +62,5 @@ flutter create --template module my_flutter
     
     ```pod 'Flutter', :podspec => 'some/path/MyApp/Flutter/[build mode]/Flutter.podspec'```
 
-   * [参考文档](https://flutter.cn/docs/development/add-to-app/ios/project-setup) 
+   * [参考文档1](https://flutter.cn/docs/development/add-to-app/ios/project-setup) 
+   * [参考文档2](https://www.jianshu.com/p/ca0e47ffef71) 
