@@ -7,7 +7,7 @@
 flutter create --template module my_flutter
 ```
 * IDE创建 Android Studio 、 VSCode
-
+* lib 中的.dart所有文件覆盖Flutter module 工程lib文件夹下的文件
 
 #### 2 创建或者使用现有Xcode项目
 * 	略
